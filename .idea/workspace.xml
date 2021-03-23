@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="421d6414-f4bc-4625-9b9e-2e14213aae8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tess4j_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/dist/tess4j-3.4.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/fontbox-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/ghost4j-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/itext-2.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jai-imageio-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jbig2-imageio-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jboss-vfs-3.2.12.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jna-4.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/lept4j-1.6.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/nblibraries.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/pdfbox-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/pdfbox-tools-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/win32-x86-64/libtesseract3051.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/win32-x86/libtesseract3051.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/lib/xmlgraphics-commons-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/readme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/com/recognition/software/jdeskew/ImageDeskew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/com/recognition/software/jdeskew/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/ITessAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/ITesseract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/TessAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/TessAPI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/Tesseract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/Tesseract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/TesseractException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/ImageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/ImageIOHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/LoadLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/LoggHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/LoggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/PdfBoxUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/PdfGsUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/PdfUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src/net/sourceforge/tess4j/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/configs/api_config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/configs/digits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/configs/hocr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/osd.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/pdf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/tessdata/pdf.ttx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/ProgressMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/TessAPI1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/TessAPIImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/TessAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/Tesseract1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/TesseractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/TestFolderExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/net/sourceforge/tess4j/util/PdfUtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext_deskew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext_unlv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/eurotext_unlv.uzn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test/resources/test-data/multipage-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/versionchanges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tess4J/Ocr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsoup/JsoupScrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsoup/Url.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helper/CommuniqueHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/jsoup/jsoup-1.13.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetsgbd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetsgbd.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q58TLkIVbZ9GPPJ2ZWGruQ3c0z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utils/jsoup/jsoup-1.13.1.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18850575" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\boycos\IdeaProjects\projetsgbd" />
+      <recent name="C:\Users\boycos\IdeaProjects\projetsgbd\src\utils\Tess4J-3.4.8-src" />
+      <recent name="C:\Users\boycos\IdeaProjects\projetsgbd\src\utils\Tess4J-3.4.8-src\Tess4J\test\net\sourceforge\tess4j" />
+      <recent name="C:\Users\boycos\IdeaProjects\projetsgbd\src\utils\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="projetsgbd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="421d6414-f4bc-4625-9b9e-2e14213aae8e" name="Default Changelist" comment="" />
+      <created>1616358096862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616358096862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
