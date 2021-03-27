@@ -5,6 +5,7 @@ import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class Ocr {
@@ -34,5 +35,6 @@ public class Ocr {
         System.out.print(text);
         return text;
     }
+
 
 }

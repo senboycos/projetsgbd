@@ -1,29 +1,41 @@
 import Tess4J.Ocr;
 import com.sun.deploy.ref.Helpers;
+import jsoup.Downloader;
 import jsoup.JsoupScrapper;
 import jsoup.Url;
 import utils.helper.CommuniqueHelper;
 
 import java.io.File;
+import java.io.FileOutputStream;
+import java.net.MalformedURLException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
-public class Main {
-    public static void main(String[] args) {
-         Ocr ocr = new Ocr();
-        File ett = new File("C:\\Users\\boycos\\Desktop\\master GLSI\\BD avance\\projet\\im1.jpg");
+import static java.util.Date.from;
 
-        String text  = ocr.getTextFromFile(ett);
+public class Main {
+    public static void main(String[] args) throws MalformedURLException {
+         Ocr ocr = new Ocr();
+
+
         JsoupScrapper jsoupScrapper = new JsoupScrapper();
         String date="mardi-23-mars-2021";
         System.out.println(new SimpleDateFormat("EEEEE-dd-MMMMMMM-yyyy", Locale.FRANCE).format(new Date()));
-        int numCommunique=386;
-        String dateCommunique = new SimpleDateFormat("EEEEE-dd-MMMMMMM-yyyy", Locale.FRANCE).format(new Date());
+        LocalDateTime dateTmp = LocalDateTime.of(2021, 3, 10, 10, 34);
+        String dateCommunique = new SimpleDateFormat("EEEEE-dd-MMMMMMM-yyyy", Locale.FRANCE).format(from(dateTmp.atZone(ZoneId.systemDefault())
+                .toInstant()));
+        int num = CommuniqueHelper.getNumComm(from(dateTmp.atZone(ZoneId.systemDefault())
+                .toInstant()));
+        File ett = Downloader.getFile("https://sante.sec.gouv.sn/sites/default/files/communique%20374.pdf", num);
+        String text  = ocr.getTextFromFile(ett);
         System.out.println("__________date communique : " + dateCommunique);
-        List<Url> urls =  jsoupScrapper.extractUrlFile(date, 387);
+        System.out.println("__________date time : " + dateTmp.atZone(ZoneId.systemDefault()).toInstant());
+        List<Url> urls =  jsoupScrapper.extractUrlFile(dateCommunique, num );
         System.out.println(urls.get(0).getLink() + "###########################");
+
     }
 }

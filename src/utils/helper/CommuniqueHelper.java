@@ -11,7 +11,7 @@ public class CommuniqueHelper {
     public static int getNumComm(Date date)  {
 
 
-        int numCommRef=386;
+        int numCommRef=387;
         LocalDateTime ref = LocalDateTime.of(2021, 3, 23, 10, 34);
         LocalDateTime dateConvert = LocalDateTime.ofInstant(date.toInstant(),  ZoneId.systemDefault());
 
