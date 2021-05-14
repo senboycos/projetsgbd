@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="commons-dbcp2-2.8.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0-javadoc.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0-test-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/src" />
+      <root url="file://$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J/test" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

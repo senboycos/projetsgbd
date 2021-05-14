@@ -60,13 +60,15 @@ import java.util.List;
 //            System.out.println(elements);
 //            System.out.println(EBAY_GLOBAL_DEALS_URL);
          //   System.out.println(doc);
+
             for (Element fileElement : elements) {
                 Url url = new Url();
                 Elements linksOnPage = fileElement.select("a[href]");
                 System.out.println("____________FILE_ELEMENT___________");
                 System.out.println(linksOnPage.get(0).attr("href"));
+                url.setLink(linksOnPage.get(0).attr("href"));
                 System.out.println("____________FILE_ELEMENT___________");
-                    url.setLink(fileElement.attr("href"));
+                url.setLink(linksOnPage.get(0).attr("href"));
 
 
                 listUrl.add(url);

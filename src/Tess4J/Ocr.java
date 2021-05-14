@@ -7,6 +7,7 @@ import net.sourceforge.tess4j.TesseractException;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.StringTokenizer;
 
 public class Ocr {
     Tesseract tesseract = new Tesseract();
@@ -32,7 +33,11 @@ public class Ocr {
         }
 
         // path of your image file
-        System.out.print(text);
+        StringTokenizer st =  new StringTokenizer( text , " " );
+
+        while  (st.hasMoreTokens ()) {
+            System.out.println (st.nextToken ());
+        }
         return text;
     }
 
