@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/jackson-core-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/jackson-databind-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-buffer-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-codec-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-codec-dns-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-codec-http-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-codec-http2-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-codec-socks-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-common-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-handler-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-handler-proxy-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-resolver-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-resolver-dns-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/netty-transport-4.1.19.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/vertx-auth-common-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/vertx-bridge-common-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/vertx-core-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/utils/jar_files/vertx-web-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

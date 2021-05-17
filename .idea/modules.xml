@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J-3.4.8-src.iml" filepath="$PROJECT_DIR$/Tess4J-3.4.8-src/Tess4J-3.4.8-src.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetsgbd.iml" filepath="$PROJECT_DIR$/projetsgbd.iml" />
     </modules>
   </component>
