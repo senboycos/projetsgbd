@@ -1,0 +1,17 @@
+[
+  {
+    "person" : "Mansour",
+    "year" : 2022,
+    "company" : "Google"
+  },
+  {
+    "person" : "Abdou",
+    "year" : 2001,
+    "company" : "IBM"
+  },
+  {
+    "person" : "Yacine",
+    "year" : 2005,
+    "company" : "YSL"
+  }
+]
