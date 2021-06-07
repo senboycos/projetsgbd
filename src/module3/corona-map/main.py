@@ -11,7 +11,7 @@ def dessinerCarte(jour,mois,annee):
         mydb = mysql.connector.connect(
             host="localhost",
             user="root",
-            database="test2"
+            database="covidbd"
         )
         mycursor = mydb.cursor()
         query = f"select l.nomLocalite,l.nbCas from localite l inner join communiques c on l.id_communique = c.id where c.dateHeureExtraction = '{jour}/{mois}/{annee}';"
