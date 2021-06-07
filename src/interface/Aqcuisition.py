@@ -1,12 +1,11 @@
 from tkinter import *
-from subprocess import call
-
+import os
 window = Tk()
 
-pyprog = 'importation.py'
 
+def callDownload():
+    os.system("javac ../../out/production/projetsgbd/main")
 
-def callpy(): call(['python', pyprog])
 
 
 window.title("Covid19")
@@ -22,7 +21,7 @@ frame_buttons = Frame(window, bg='#FAF3CA')
 label_title = Label(frame, text="Data Aqcuisition", font=("Montserrat", 40), bg='#FAF3CA', fg="Black")
 label_title.pack()
 
-download_button = Button(frame_buttons, text="Telecharger le fichier du jour", font=("Montserrat", 25), bg='white', fg='Black', command=callpy)
+download_button = Button(frame_buttons, text="Telecharger le fichier du jour", font=("Montserrat", 25), bg='white', fg='Black', command=callDownload)
 download_button.pack()
 insert_button = Button(frame_buttons, text="Mettre à jour les fichiers", font=("Montserrat", 25), bg='white', fg='Black',)
 insert_button.pack()
